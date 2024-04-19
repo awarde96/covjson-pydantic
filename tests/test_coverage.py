@@ -30,6 +30,7 @@ happy_cases = [
     ("spec-domain-point-compact.json", Domain),
     ("spec-domain-multipoint-series.json", Domain),
     ("spec-domain-multipoint.json", Domain),
+    ("spec-domain-trajectory.json", Domain),
     ("ndarray-float.json", NdArray),
     ("spec-ndarray.json", NdArray),
     ("spec-tiled-ndarray.json", TiledNdArray),
